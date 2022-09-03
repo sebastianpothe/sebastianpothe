@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sebastianpothe
 - 👀 I’m interested in Web design and web development
-- 🌱 I’m currently learning OOP
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Gulp, React...
 - 📫 sebastianpothe.com
 
 <!---
